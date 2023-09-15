@@ -215,3 +215,10 @@ section.section.vh-100#sounds {
     background: #f6f8fa;
     border-color: #3fb2b2;
 }
+.cus-footer {
+    background-image: url(https://www.dreams.sa/assets/globals/images/footer-bg.png);
+    background-position: center;
+    text-align: center;
+    padding: 1rem 0;
+    color: #adb5bd
+}
