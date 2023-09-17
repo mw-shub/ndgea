@@ -246,3 +246,6 @@ section.section.vh-100#sounds {
 .btn-register i {
     margin-left: 7px;
 }
+.vat {
+    color: red !important;
+}
